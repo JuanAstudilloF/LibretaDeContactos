@@ -1,8 +1,5 @@
 package ec.edu.ups.POO;
 
-import ec.edu.ups.POO.Familiar;
-import ec.edu.ups.POO.Persona;
-
 import java.util.GregorianCalendar;
 import java.util.Scanner;
 
