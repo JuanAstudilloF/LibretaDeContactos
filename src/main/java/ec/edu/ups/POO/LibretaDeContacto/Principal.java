@@ -1,4 +1,4 @@
-package ec.edu.ups.POO;
+package ec.edu.ups.POO.LibretaDeContacto;
 
 import java.util.GregorianCalendar;
 import java.util.Scanner;

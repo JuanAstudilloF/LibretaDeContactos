@@ -1,4 +1,4 @@
-package ec.edu.ups.POO;
+package ec.edu.ups.POO.LibretaDeContacto;
 
 public class Persona {
 

@@ -1,4 +1,5 @@
-package ec.edu.ups.POO;
+package ec.edu.ups.POO.LibretaDeContacto;
+
 import java.util.GregorianCalendar;
 
 public class Familiar extends Persona {
