@@ -34,9 +34,6 @@ public class Persona {
         this.direccion = direccion;
     }
 
-    /**
-     * @return
-     */
     @Override
     public String toString(){
         return "Cedula" + cedula + "\nNombre: " + nombre + "\nApellido: " + apellido + "\nDireccion: " + direccion;
