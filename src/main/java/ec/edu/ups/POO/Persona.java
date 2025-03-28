@@ -11,13 +11,6 @@ public class Persona {
     public Persona() {
     }
 
-    public Persona(String nombre, String apellido, String cedula, String direccion) {
-        this.nombre = nombre;
-        this.apellido = apellido;
-        this.cedula = cedula;
-        this.direccion = direccion;
-    }
-
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
